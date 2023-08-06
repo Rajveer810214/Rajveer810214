@@ -1,6 +1,6 @@
 <h2> Hi, I'm Rajveer Singh <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Web Developer </br>CS student at GNDEC Ludhiana
+<p><em>Full Stack Developer </br>CS student at GNDEC Ludhiana
 </em></p>
 
 [![Twitter Follow :](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Rajveer810214?t=EOa00qzs2O9t9YfW4x4CpQ&s=08)
@@ -15,7 +15,7 @@
 const rajveer = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, C++, C, Python, Java],
-   askMeAbout: ["web dev", "tech", "app dev", "Canva", "DSA],
+   askMeAbout: ["web dev","React", "Next", "tech", "app dev", "Canva", "DSA],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
@@ -25,11 +25,10 @@ const rajveer = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO"]
+        misc: ["Firebase", "Socket.IO", "OneSignal", "Strapi"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+   
 }
 ```
 
